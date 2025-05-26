@@ -1,17 +1,19 @@
 ---
-title: My Site
+title: Welcome to Baig Bullet Point
 toc: false
 ---
 
-This is the landing page.
+We handle all services of Royal Enfield bullet of all models
 
-## Explore
+![LOGO](logo.JPG)
+![1](1.JPG)
+![2](2.JPG)
+![2](3.JPG)
 
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
 
-## Documentation
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+
+## Contact
+
+[+91 9845-634-786](tel:+919845634786) <br />
+[contact@baigbulletpoint.in](baigbulletpoint.in)

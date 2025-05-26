@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Baig Bullet Point
 
 # import hextra as module
 module:
@@ -18,29 +18,22 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
-    - name: About
-      pageRef: /about
-      weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
-      weight: 3
-    - name: Search
-      weight: 4
-      params:
-        type: search
-    - name: GitHub
+    # - name: Docs
+    #   pageRef: /contact
+    #   weight: 1
+    # - name: About
+    #   pageRef: /about
+    #   weight: 2
+    - name: Instagram
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://www.instagram.com/baig_bullect_point"
       params:
-        icon: github
-    - name: Twitter
+        icon: instagram
+    - name: Facebook
       weight: 6
-      url: "https://twitter.com/"
+      url: "https://www.facebook.com/share/1ASr9k4A4e"
       params:
-        icon: x-twitter
+        icon: facebook
 
 params:
   navbar:
@@ -49,7 +42,7 @@ params:
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
     enable: true
